@@ -372,37 +372,6 @@
 	clear: both;
 	float: left;
 }
-.elisc_tm_modalbox .news_popup_informations .image{
-	position: relative;
-	margin-bottom: 30px;
-}
-.elisc_tm_modalbox .news_popup_informations .image img{
-	position: relative;
-	opacity: 0;
-	min-width: 100%;
-}
-.elisc_tm_modalbox .news_popup_informations .image .main{
-	position: absolute;
-	top: 0px;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;
-	border-radius: 4px;
-}
-.elisc_tm_modalbox .news_popup_informations .text{
-	width: 100%;
-	float: left;
-}
-.elisc_tm_modalbox .news_popup_informations .text p{
-	margin-bottom: 10px;
-	opacity: .8;
-}
-.elisc_tm_modalbox .news_popup_informations .text p:last-child{
-	margin-bottom: 0px;
-}
 .elisc_tm_modalbox .meta{
 	width: 100%;
 	display: flex;
