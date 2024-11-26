@@ -7,13 +7,18 @@
       <priority>1</priority>
    </url>
    <url>
-      <loc>http://nightfall-tutor.github.io/courses/math1021</loc>
-      <lastmod>2024-11-21</lastmod>
+      <loc>http://nightfall-tutor.github.io/courses/usyd/math1021</loc>
+      <lastmod>2024-11-26</lastmod>
       <changefreq>weekly</changefreq>
    </url>
    <url>
-      <loc>http://nightfall-tutor.github.io/courses/math1062</loc>
-      <lastmod>2024-11-21</lastmod>
+      <loc>http://nightfall-tutor.github.io/courses/usyd/math1062</loc>
+      <lastmod>2024-11-26</lastmod>
+      <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/usyd/phys1002</loc>
+      <lastmod>2024-11-26</lastmod>
       <changefreq>weekly</changefreq>
    </url>
 </urlset>
