@@ -7,23 +7,58 @@
       <priority>1</priority>
    </url>
    <url>
-      <loc>http://nightfall-tutor.github.io/courses/usyd/math1021</loc>
-      <lastmod>2024-11-26</lastmod>
-      <changefreq>weekly</changefreq>
+      <loc>http://nightfall-tutor.github.io/courses/alevel/mathematics</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
    </url>
    <url>
-      <loc>http://nightfall-tutor.github.io/courses/usyd/math1062</loc>
-      <lastmod>2024-11-26</lastmod>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>http://nightfall-tutor.github.io/courses/usyd/phys1002</loc>
-      <lastmod>2024-11-26</lastmod>
-      <changefreq>weekly</changefreq>
+      <loc>http://nightfall-tutor.github.io/courses/ap/ap-calculus</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
    </url>
    <url>
       <loc>http://nightfall-tutor.github.io/courses/fhsu/phys111</loc>
-      <lastmod>2024-11-28</lastmod>
-      <changefreq>weekly</changefreq>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/ubc/math100</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/usyd/math1021</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/usyd/math1062</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/usyd/phys1002</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/uw/amath250</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/uw/math235</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/uw/math237</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   <url>
+      <loc>http://nightfall-tutor.github.io/courses/uw/stat330</loc>
+      <lastmod>2024-12-04</lastmod>
+      <changefreq>daily</changefreq>
    </url>
 </urlset>
